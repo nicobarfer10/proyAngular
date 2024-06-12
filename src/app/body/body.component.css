@@ -1,0 +1,22 @@
+*{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+img{
+    width: 170px;
+    height: 200px;
+}
+ul{
+    text-align: center;
+}
+.carousel slide{
+    text-align: center;
+}
